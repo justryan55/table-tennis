@@ -252,8 +252,8 @@ camera.position.y = 2;
 
 /** Controls */
 
-// const controls = new OrbitControls(camera, canvas);
-// controls.enableDamping = true;
+const controls = new OrbitControls(camera, canvas);
+controls.enableDamping = true;
 
 /** Renderer */
 
