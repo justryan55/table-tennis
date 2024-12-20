@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ping Pong
+* source:	https://sketchfab.com/3d-models/ping-pong-4e456cb9fac5455683454d7e1455e173
+* author:	extrin6 3D (https://sketchfab.com/extrin6_3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ping Pong" (https://sketchfab.com/3d-models/ping-pong-4e456cb9fac5455683454d7e1455e173) by extrin6 3D (https://sketchfab.com/extrin6_3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
